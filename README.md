@@ -1,0 +1,1 @@
+## Smart School Application for school management services using SpringBoot backend, Thymleaf templates
